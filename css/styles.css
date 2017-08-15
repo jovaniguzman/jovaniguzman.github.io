@@ -1,0 +1,118 @@
+header {
+      background-color:#800020;
+      height:100px;
+      padding:30px;
+      color:#ffffff;  
+      text-align:center;  
+}
+
+.button {
+  padding:10px;
+  border-radius:6px;         
+  color:#ffffff; 
+  text-decoration:none;
+  background-color:#800000;
+}
+
+nav {
+	 position:relative;
+	 bottom:45px;
+     right:440px;
+}
+nav li {
+      display:inline;	 
+}
+
+nav li a {
+	color:#000000;
+	text-decoration:none;
+	padding:20px 30px;
+	border-radius:0px 0px 0px 0px;
+	background-color:#6495ED;
+  }
+
+nav li a:hover {
+    background-color:white;
+}
+
+main h1{
+    position:relative;
+    right:120px;
+    top:-50px;
+}
+
+p{
+    position:relative;
+    right:150px;
+    bottom:45px;
+    font-style:;
+}
+
+main {
+   background:#4ABDAC;
+   padding:50px;
+   height:380px;
+}
+
+
+#logo {
+    width:220px;
+    height:-190px;
+    position:relative;
+    Left:850px;
+    bottom:210px;
+}
+
+#pic{
+   width:365px;
+   position:relative;
+   left:100px;
+  bottom:190px;
+}
+
+#pic2{
+  width:365px;
+  position:relative;
+  left:-690px;
+  bottom:190px;
+}
+
+#patino{
+    width:280px;
+    height:350px;
+    position:relative;
+    left:480px;
+    bottom:150px;
+}
+          
+main div {
+  text-align: center;
+}
+
+footer {
+        height:107px;
+        background:#000000;
+}
+ 
+footer{
+  text-align:center;
+  color:#FFFFFF;
+  padding:10px;
+}
+
+footer p{
+  position:relative;
+  top:20px;
+  right:39px
+}
+
+main section{
+    display:inline-block;
+    margin:25px 0px;
+}
+
+section div img {  /* === In this CSS rule, we're targeting the images of our three columns === */
+  width:100%;
+  border:solid 2px #800020;
+}
+
